@@ -43,6 +43,8 @@ The core MBA metrics used in this project are:
    - Lift > 1 means the items are positively associated (they appear together more often than chance). And item Y is likely to be bought if item X is alredy bought.
    - Lift = 1 implies no association between items.
    - Lift < 1 means the items are negativity associated. Item Y is unlikely to be bought if item X is bought.
+
+  This [chapter](http://www-users.cs.umn.edu/~kumar/dmbook/ch6.pdf) in [Introduction to Data Mining](http://www-users.cs.umn.edu/~kumar/dmbook/index.php) is a great reference for  the math behind these definitions and the details of the algorithm implementation.
 ### 🔧Tools Used
 - Python + Apriori algorithm
   
