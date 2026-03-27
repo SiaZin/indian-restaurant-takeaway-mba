@@ -2,12 +2,10 @@
 Market Basket Analysis on 20k Indian takeaway orders — Python preprocessing, Apriori rules, Tableau dashboards, business insights.
 
 ## Repository Structure
-
-- `data/raw/` — original CSV (unmodified)
-- `data/processed/` — cleaned/prepared data ready for MBA
-- `visuals/` —  screenshots od dashboards and ad-style promotional suggestions
-- `tableau/` — Tableau packaged workbooks
-- `notebooks/` — ipynb files for data preparation and apriori rules mining
+- `data/` — необроблені дані (.csv) та оброблені дані (.xlsx)
+- `visualizations/` — скріншоти дашбордів та excel-файлу
+- `Massive_shelling_data_extraction.ipynb` — ipynb file для збирання даних з телеграм-каналу
+- `Shellings_2024.twbx` — twbx (Tableau Packaged Workbook)
 
 > [!NOTE]
 > My Tableau workbooks are also published on Tableau Public
